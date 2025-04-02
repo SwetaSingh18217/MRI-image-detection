@@ -1,1 +1,2 @@
 # MRI-image-detection
+This project focuses on detecting brain tumors using machine learning techniques, specifically Random Forest and Decision Tree classifiers. The model is trained on medical imaging datasets to classify brain scans as tumor or non-tumor. Performance comparison between the two algorithms is conducted to determine accuracy and efficiency. The project includes data preprocessing, feature extraction, model training, and evaluation.
